@@ -37,7 +37,7 @@ x-acquired-by: Siemens
 x-acquired-date: '1999-03'
 x-successor: Unisphere Networks (later acquired by Juniper Networks, 2002)
 x-api-surface: none
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
